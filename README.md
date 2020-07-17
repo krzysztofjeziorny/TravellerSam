@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+
+Mostly throwing [stars](https://github.com/TravellerSam?tab=stars) at the projects I follow and/or use. 
+
+Learning and using Django, Wagtail CMS, Vue.js.
 
 <!--
 **TravellerSam/TravellerSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
