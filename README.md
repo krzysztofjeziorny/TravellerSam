@@ -4,6 +4,8 @@ Mostly throwing [stars](https://github.com/krzysztofjeziorny?tab=stars) at the p
 
 🌱 I’m currently learning and using Django, Wagtail CMS, Vue.js.
 
+📫 [website](https://jeziorny.net) 📫 [Twitter](https://twitter.com/jeziorny_)
+
 <!--
 **TravellerSam/TravellerSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
