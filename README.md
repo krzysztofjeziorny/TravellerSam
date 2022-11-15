@@ -4,4 +4,4 @@ Mostly throwing [stars](https://github.com/krzysztofjeziorny?tab=stars) at the p
 
 🌱 I’m currently learning and using Django, Wagtail CMS, Vue.js.
 
-📫 [website](https://jeziorny.net) 📫 [Twitter](https://twitter.com/jeziorny_)
+📫 [website](https://jeziorny.net) 📫 [Twitter](https://twitter.com/jeziorny_) 📫 [Mastodon](https://mastodon.social/@jeziorny)
