@@ -2,6 +2,6 @@
 
 Mostly throwing [stars](https://github.com/krzysztofjeziorny?tab=stars) at the projects I follow and/or use. 
 
-🌱 I’m currently learning and using Django, Wagtail CMS, Vue.js.
+🌱 [Django](https://github.com/django/django), [Wagtail CMS](https://github.com/wagtail/wagtail) & frontend stuff mostly
 
-📫 [website](https://jeziorny.net) 📫 [Twitter](https://twitter.com/jeziorny_) 📫 [Mastodon](https://mastodon.social/@jeziorny)
+📫 [website](https://jeziorny.net) 📫 [Mastodon](https://fosstodon.org/@konsonantenboy)
